@@ -3,7 +3,7 @@ package org.javagirls.capitulo_2.java;
 public class Variables {
     public static void main(String[] args) {
         System.out.println("JAVA --------------------------");
-        String name = "Cris";
+        final String name = "Cris";
         int age = 20;
         String language;
         language = "Kotlin";

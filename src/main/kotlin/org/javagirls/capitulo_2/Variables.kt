@@ -31,7 +31,7 @@ fun main() {
     }
     println(result)
 
-    // var = variable ( pode ser reatribuído novo valor )
+    // var = variable ( pode ser atribuído novo valor )
     var answerVar = 42
     answerVar = 45
     println(answerVar)

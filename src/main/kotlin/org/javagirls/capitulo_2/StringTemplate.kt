@@ -5,6 +5,7 @@ fun main() {
     val input = readln()
     val name = if (input.isNotBlank()) input else "Kotlin"
 
+    // $variável é substituído pelo conteúdo da mesma
     println("Hello, $name!")
 
     // complex expression dentro de um string template, utilizar chaves
