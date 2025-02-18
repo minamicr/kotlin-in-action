@@ -1,7 +1,5 @@
 package org.javagirls.capitulo_2
 
-import org.javagirls.capitulo_2.Person
-
 fun main() {
     println("KOTLIN --------------------------")
     // construtor sem uso de new
